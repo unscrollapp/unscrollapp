@@ -3,11 +3,11 @@ layout: page
 title: Privacy Policy
 include_in_header: false
 ---
-<p>Effective date: January 08, 2020</p>
+<p>Effective date: July 04, 2024</p>
 
 <h1>Privacy Policy</h1>
 
-<p>Satnam Singh ("us", "we", or "our") operates the KEV mobile application (the "Service").</p>
+<p>Satnam Singh ("us", "we", or "our") operates the RMA Share mobile application (the "Service").</p>
 
 <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
