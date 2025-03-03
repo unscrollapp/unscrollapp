@@ -2,7 +2,7 @@
 page_title: # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id: 6504602116  # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id: 6742678435  # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link: # Enter Google Play Store URL.
@@ -11,7 +11,7 @@ presskit_download_link: # Enter a link to downloadable file or (e.g. public Drop
 app_icon: # assets/appicon.png  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: RMA Share is an intuitive app designed to transform your RateMyAgent reviews into stunning image effortlessly.
+app_description: Transform your iPhone into a distraction-free tool with Unscroll—the minimalist launcher designed to help you break free from endless scrolling and mindless app use.
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
 # Information About Yourself
@@ -27,16 +27,16 @@ youtube_username:
 
 # Feature List (Edit, add or remove features to be presented.)
 features:
-  - title: List Your Reviews
-    description: Supply URL and list the reviews with a single tap.
+  - title: 📵 A Phone, Not a Distraction
+    description: Unscroll removes the urge to mindlessly open social media or addictive apps. Every time you unlock your phone, you see only what you need, not what distracts you.
     fontawesome_icon_name: thermometer-full
 
-  - title: Generate Review Image
-    description: With a single-tap, the app gets you shareable image.
+  - title: 🎯 Minimalist App Launcher
+    description: Curate your own simple, monochrome interface with clean buttons for only the apps that matter.
     fontawesome_icon_name: calculator
 
-  - title: Share Reviews Anywhere
-    description: Share review image on Instagram, Facebook, X , Google Maps or any other social media.
+  - title: ⚡ Instant Access to Essentials
+    description: Select frequently used apps so they’re just a tap away—nothing extra to tempt you.
     fontawesome_icon_name: star
 
 # Theme Settings
